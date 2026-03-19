@@ -11,7 +11,6 @@
 >[!IMPORTANT]  
 > - This is **NOT an official ReVanced project**, do not ask the ReVanced developers for help.  
 > - **Root access** is strictly **required** to use this module!
-> - **Spotify is no longer supported!** Get the new module [here](https://github.com/chsbuffer/ReVancedXposed_Spotify)
 > - **Having issues?** Check the **[FAQ](https://github.com/chsbuffer/ReVancedXposed/wiki/Frequently-Asked-Questions)** before reporting.
 
 ## Downloads
@@ -22,7 +21,7 @@
 
 ## Patches
 
-### Youtube
+### YouTube
 - Remove ads
 - SponsorBlock
 - Remove background playback restrictions
@@ -45,14 +44,10 @@
 - Alternative thumbnails
 - Bypass image region restrictions
 
-### Spotify (Moved to Dedicated Repository)
-
-[ReVancedXposed_Spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify)
-
 ### Google Photos
 - Spoof Pixel XL
 
-### Youtube Music
+### YouTube Music
 - Remove music video ads
 - Remove background playback restrictions
 - Hide upgrade button
